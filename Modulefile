@@ -1,5 +1,5 @@
 name    'a2tar-dhcp'
-version '0.1.0'
+version '0.1.1'
 source 'git@github.com:a2tar/dhcp.git'
 author 'A2Tar'
 license 'Mit License'
