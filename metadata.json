@@ -1,0 +1,13 @@
+{
+  "name": "a2tar-dhcp",
+  "version": "0.1.0",
+  "summary": "puppet dhcp module for ubuntu",
+  "author": "A2Tar",
+  "description": "change domain search on AWS ec2 instances",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git@github.com:a2tar/dhcp.git",
+  "project_page": "https://github.com/a2tar/dhcp",
+  "license": "Mit License"
+}
